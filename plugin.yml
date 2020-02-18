@@ -1,0 +1,5 @@
+name: NonDrinkableAntiFreeze
+main: CortexPE\NonDrinkableAntiFreeze\Main
+version: 0.0.1
+api: 3.11.1
+author: CortexPE
